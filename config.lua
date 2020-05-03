@@ -43,7 +43,7 @@ if IsServer then
 else
 	-- UI settings
 	Config.ShowAboveAuthor = true
-	Config.MaxShowDistance = 250.
-	Config.Scale = { Min = 0.35, Max = 1.0 }
+	Config.MaxShowDistance = 200.
+	Config.Scale = { Min = 0.80, Max = 0.95 }
 	Config.CoordOffset = { X = 0, Y = 0, Z = 1.30 }
 end
